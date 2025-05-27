@@ -15,7 +15,7 @@ console.log(number);
 let text = "testo";
 console.log(text);
 
-let condizione = true;
+let bool = true;
 let risultato = 5 > 3;
 console.log(risultato);
 
